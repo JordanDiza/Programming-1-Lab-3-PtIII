@@ -20,3 +20,8 @@ Lab 3 Pt.III
 13: Xylophone
 14: Tubular Bells
 15: Dulcimer
+
+#39
+It makes a piano sound
+
+#40
