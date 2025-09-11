@@ -41,4 +41,6 @@ midiPlay1.playTune(simpleTu1);
 
 it started playing piano notes
 
-#43
+#43 Yes, when I use the playTune method it replays the notes that I put on the SimpleTune
+
+#44
