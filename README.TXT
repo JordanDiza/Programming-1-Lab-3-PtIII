@@ -25,3 +25,20 @@ Lab 3 Pt.III
 It makes a piano sound
 
 #40
+They play piano sounds
+
+#41 I see this:
+Instrument number: 0
+A (12) F (11) B (12) C (4) F (12) D (3) 
+Yes, I could play the tune on a piano but not like the duration
+
+#42 MidiPlayer midiPlay1 = new MidiPlayer();
+SimpleTune simpleTu1 = new SimpleTune();
+simpleTu1.addNote("C", 8);
+simpleTu1.addNote("D", 8);
+simpleTu1.addNote("E", 8);
+midiPlay1.playTune(simpleTu1);
+
+it started playing piano notes
+
+#43
