@@ -3,3 +3,20 @@ test test
 
 Lab 3 Pt.III
 
+#38 
+0: Acoustic Grand Piano
+1: Bright Acoustic Pian
+2: Electric Grand Piano
+3: Honky-tonk Piano
+4: Electric Piano 1
+5: Electric Piano 2
+6: Harpsichord
+7: Clavi
+8: Celesta
+9: Glockenspiel
+10: Music Box
+11: Vibraphone
+12: Marimba
+13: Xylophone
+14: Tubular Bells
+15: Dulcimer
