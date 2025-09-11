@@ -43,12 +43,12 @@ it started playing piano notes
 
 #43 Yes, when I use the playTune method it replays the notes that I put on the SimpleTune
 
-#44 EXTERNAL: public void playTune(SimpleTune tune)
+#44 
+
+#45 EXTERNAL: public void playTune(SimpleTune tune)
     INTERNAL: getNotes,
 
-#45
-
-#46
+#46 I dont know what to do here
 
 #47
 
