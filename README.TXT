@@ -70,7 +70,19 @@ public class TuneCreator
         
     }
 
-#49
+#49 public void CreateAndPlay()
+    {
+        SimpleTune tune = new SimpleTune();
+        
+    tune.addNote("E", 4); 
+    tune.addNote("D", 4); 
+    tune.addNote("C", 4); 
+    tune.addNote("B", 4); 
+    tune.addNote("A", 4); 
+
+        player.playTune(tune);
+    }
+}
 
 #50
 
