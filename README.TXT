@@ -97,8 +97,34 @@ public class TuneCreator
 #55 It goes one line down each time I press the step button
 once It reaches the next methods It stops
 
-#56
+#56 1 if(instrument >= 0) {
+    2.        this.instrument = instrument;
+        }
+    3.   else {
+    4.       System.err.println("The instrument number must be greater-than or equal-to zero: " +
+                                instrument);
 
-#58
+ I was wrong after the if statement it goes straight to the end so only 
+ 1 if(instrument >= 0) {
+    2.        this.instrument = instrument;
+        }
+#57
+ SimpleTune tune = new SimpleTune();
+        
+    tune.addNote("E", 4); 
+    tune.addNote("D", 4); 
+    tune.addNote("C", 4); 
+    tune.addNote("B", 4); 
+    tune.addNote("A", 4); 
 
-#58
+        player.playTune(tune);
+        
+ It skips the spaces and the brackets    
+        
+        
+    }
+}
+#58 It goes to SimpleTune and the method is public void addNote(String noteName, int duration)
+ I see this private MidPlayer player = a red thingy (idk what it is) <object reference>
+ then when I do step into I see
+ private int instrument = 0
