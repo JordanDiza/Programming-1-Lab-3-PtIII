@@ -48,9 +48,22 @@ it started playing piano notes
 #45 EXTERNAL: public void playTune(SimpleTune tune)
     INTERNAL: getNotes,
 
-#46 I dont know what to do here
+#46  Created a new class 
 
 #47
+public class TuneCreator
+{
+    // instance variables - replace the example below with your own
+    private MidiPlayer player;
+
+    /**
+     * Constructor for objects of class TuneCreator
+     */
+    public TuneCreator()
+    {
+        
+        player = new MidiPlayer();
+    }
 
 #48
 
