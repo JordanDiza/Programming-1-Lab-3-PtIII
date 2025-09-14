@@ -25,9 +25,8 @@ public class TuneCreator
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public int sampleMethod(int y)
+    public void CreateAndPlay()
     {
-        // put your code here
-        return  y;
+        
     }
 }

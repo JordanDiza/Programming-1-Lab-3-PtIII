@@ -65,7 +65,10 @@ public class TuneCreator
         player = new MidiPlayer();
     }
 
-#48
+#48 public void CreateAndPlay()
+    {
+        
+    }
 
 #49
 
