@@ -84,15 +84,15 @@ public class TuneCreator
     }
 }
 
-#50
+#50 Changed it to 2
 
-#51
+#51 
 
 #52
 
-#53
+#53 
 
-#54
+#54 System.out.println("Instrument number: " + instrument);
 
 #55
 
