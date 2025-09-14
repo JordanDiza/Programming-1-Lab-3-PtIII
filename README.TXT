@@ -94,7 +94,8 @@ public class TuneCreator
 
 #54 System.out.println("Instrument number: " + instrument);
 
-#55
+#55 It goes one line down each time I press the step button
+once It reaches the next methods It stops
 
 #56
 
